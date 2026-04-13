@@ -126,7 +126,7 @@ To deliver an interactive visual tool that:
 ## Dashboard Snapshots
 
 ### Overview Page
-![Dashboard Overview](Snapshot_of_the_dashboard.png)
+![Dashboard Overview](https://github.com/analyticswithkanishk/Netflix-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 ### Temporal Analysis Page
 ![Temporal Analysis](Screenshot_2026-04-13_231105.png)
