@@ -128,11 +128,12 @@ To deliver an interactive visual tool that:
 ### Overview Page
 ![Dashboard Overview](https://github.com/analyticswithkanishk/Netflix-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
 
-### Temporal Analysis Page
-![Temporal Analysis](Screenshot_2026-04-13_231105.png)
+### Rating & Votes Analysis 
+![Temporal Analysis](https://github.com/analyticswithkanishk/Netflix-Dashboard/blob/main/Snapshot%20of%20the%20dashboard2.png
+)
 
-### Ratings & Top Titles Page
-![Ratings Analysis](Screenshot_2026-04-13_231057.png)
+### IMDB Analysis 
+![Ratings Analysis](https://github.com/analyticswithkanishk/Netflix-Dashboard/blob/main/Snapshot%20of%20the%20dashboard3.png)
 
 ---
 
